@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dossiers>
+    <dossier>
+        <dossier_id>10</dossier_id>
+        <est_cloture>false</est_cloture>
+        <label>label 1</label>
+    </dossier>
+    <dossier>
+        <dossier_id>20</dossier_id>
+        <est_cloture>true</est_cloture>
+        <label>label 2</label>
+    </dossier>
+    <dossier>
+        <dossier_id>30</dossier_id>
+        <est_cloture>false</est_cloture>
+        <label>label 3</label>
+    </dossier>
+    <dossier>
+        <dossier_id>40</dossier_id>
+        <est_cloture>false</est_cloture>
+        <label>label 4</label>
+    </dossier>
+    <dossier>
+        <dossier_id>50</dossier_id>
+        <est_cloture>true</est_cloture>
+        <label>label 5</label>
+    </dossier>
+    <dossier>
+        <dossier_id>60</dossier_id>
+        <est_cloture>true</est_cloture>
+        <label>label 6</label>
+    </dossier>
+    <dossier>
+        <dossier_id>70</dossier_id>
+        <est_cloture>false</est_cloture>
+        <label>label 7</label>
+    </dossier>
+    <dossier>
+        <dossier_id>80</dossier_id>
+        <est_cloture>true</est_cloture>
+        <label>label 8</label>
+    </dossier>
+</Dossiers>
